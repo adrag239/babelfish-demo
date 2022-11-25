@@ -1,0 +1,3 @@
+./BabelfishCompass.bat MyXMLReport -rewrite -replace -reportoption xref,status=all nw.xml -importfmt MSSQLProfilerXML
+
+./BabelfishCompass.bat MyReport -rewrite -replace -reportoption xref,status=all nw_script.sql
